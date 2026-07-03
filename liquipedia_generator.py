@@ -441,20 +441,15 @@ def generate_page(data):
 ==About==
 ===Format===
 {full_format}
-
 ===Prize Pool===
 {prize_distribution}
-
 ==Participants (Top 8)==
 {participants}
-
 ==Results (Top 8)==
 {bracket}
-
 ==Additional Information==
 ===Country Representation===
 {{{{Country representation}}}}
-
 ==References==
 {{{{Reflist}}}}
 """
